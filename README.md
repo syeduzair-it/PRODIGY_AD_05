@@ -25,7 +25,7 @@ UzQrScanner is an Android app that scans QR codes using the device camera. It ex
 ![Scan Screen](screenshots/Sscreen5_1.jpg)
 ![camera Screen](screenshots/Sscreen5_2.jpg).
 ![Result Screen](screenshots/Sscreen5_3.jpg)  
-![App Icon](screenshots/UZ_Scanner.png)  
+![App Icon](screenshots/UZ_Scaner.png)  
 
 ## How to Run
 1. Clone the repo:
